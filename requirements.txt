@@ -47,7 +47,7 @@ stack-data==0.6.3
 sympy==1.13.3
 torch==2.4.1
 torchvision==0.19.1
-tornado==6.4.1
+tornado==6.4.2
 traitlets==5.14.3
 triton==3.0.0
 typing_extensions==4.12.2
