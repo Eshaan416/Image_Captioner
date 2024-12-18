@@ -92,7 +92,7 @@ Once the dependencies are installed and the dataset is in place, you can run the
    ```bash
    jupyter notebook
    ```
-2. Navigate to the `notebooks` folder and open `captioner.ipynb`.
+2. Navigate to the `model` folder and open `captioner.ipynb`.
 3. Run the cells step-by-step to train the model and generate captions for sample images.
 
 ---
